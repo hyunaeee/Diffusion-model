@@ -1,2 +1,2 @@
 # Diffusion-model
-3d recon
+3d reconstruction
